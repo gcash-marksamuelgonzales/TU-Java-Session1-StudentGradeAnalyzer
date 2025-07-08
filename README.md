@@ -1,2 +1,3 @@
-# TU-Java-Session1-StudentGradeAnalyzer
-This repository is in relation to the Laboratory 1 Activity for SWE Spring Track
+Name: Mark Samuel Gonzales
+Project Title: TU-Java-Session1-StudentGradeAnalyzer
+Screenshot of Output: Kindly see Gdrive link
